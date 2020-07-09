@@ -41,19 +41,6 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-9wq8">0.8316</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1905.05621" target="_blank" rel="noopener noreferrer">StyleTrans-multi</a></td>
-    <td class="tg-9wq8">0.1536</td>
-    <td class="tg-9wq8">63.08</td>
-    <td class="tg-9wq8">0.7145</td>
-    <td class="tg-9wq8">0.7203</td>
-    <td class="tg-9wq8">0.7175</td>
-    <td class="tg-9wq8">0.6133</td>
-    <td class="tg-9wq8">0.9102</td>
-    <td class="tg-9wq8">0.6909</td>
-    <td class="tg-9wq8">0.8730</td>
-    <td class="tg-9wq8">0.8316</td>
-  </tr>
-  <tr>
     <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1905.10060" target="_blank" rel="noopener noreferrer">DualRL</a></td>
     <td class="tg-9wq8">0.1692</td>
     <td class="tg-9wq8">59.01</td>
