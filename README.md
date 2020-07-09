@@ -2,6 +2,7 @@
 
 
 
+```HTML
 
 <table class="tg">
 <thead>
@@ -27,7 +28,7 @@
     <td class="tg-wa1i">EMD</td>
   </tr>
   <tr>
-    <td class="tg-nrix">StyleTrans-multi</td>
+    <td class="tg-nrix"><a href="https://arxiv.org/pdf/1905.05621" target="_blank" rel="noopener noreferrer">StyleTrans-multi</a></td>
     <td class="tg-nrix">0.1536</td>
     <td class="tg-nrix">63.08</td>
     <td class="tg-nrix">0.7145</td>
@@ -262,3 +263,4 @@
   </tr>
 </tbody>
 </table>
+```
