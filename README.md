@@ -2,8 +2,6 @@
 
 
 
-```HTML
-
 <table class="tg">
 <thead>
   <tr>
@@ -263,4 +261,3 @@
   </tr>
 </tbody>
 </table>
-```
