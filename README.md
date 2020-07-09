@@ -7,7 +7,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-9wq8">Dataset:&nbsp;&nbsp;&nbsp;Yelp</th>
+    <th class="tg-9wq8">Dataset:&nbsp;Yelp</th>
     <th class="tg-9wq8" colspan="5">Content Preservation</th>
     <th class="tg-9wq8" colspan="3">Naturalness</th>
     <th class="tg-9wq8" colspan="2">Transfer Intensity</th>
@@ -26,6 +26,19 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-9wq8">N-D</td>
     <td class="tg-9wq8">ACCU</td>
     <td class="tg-9wq8">EMD</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1905.05621" target="_blank" rel="noopener noreferrer">StyleTrans-multi</a></td>
+    <td class="tg-9wq8">0.1536</td>
+    <td class="tg-9wq8">63.08</td>
+    <td class="tg-9wq8">0.7145</td>
+    <td class="tg-9wq8">0.7203</td>
+    <td class="tg-9wq8">0.7175</td>
+    <td class="tg-9wq8">0.6133</td>
+    <td class="tg-9wq8">0.9102</td>
+    <td class="tg-9wq8">0.6909</td>
+    <td class="tg-9wq8">0.8730</td>
+    <td class="tg-9wq8">0.8316</td>
   </tr>
   <tr>
     <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1905.05621" target="_blank" rel="noopener noreferrer">StyleTrans-multi</a></td>
