@@ -1,5 +1,7 @@
 # Text Style Transfer Benchmark
 
+This benchmark is built for text style transfer. We are still collecting the relevant results and paper, if you want to add your own paper on this benchmark, feel free to contact us by sending mail to 'ykshi [dot] 1991 [at] foxmail [dot] com'
+
 
 
 <table class="tg">
