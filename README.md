@@ -28,7 +28,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-9wq8">EMD</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1905.05621" target="_blank" rel="noopener noreferrer">StyleTrans-multi</a></td>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1905.05621" target="_blank" rel="noopener noreferrer">StyleTrans-multi</a>(dai2019)</td>
     <td class="tg-9wq8">0.1536</td>
     <td class="tg-9wq8">63.08</td>
     <td class="tg-9wq8">0.7145</td>
@@ -41,7 +41,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-9wq8">0.8316</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1905.10060" target="_blank" rel="noopener noreferrer">DualRL</a></td>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1905.10060" target="_blank" rel="noopener noreferrer">DualRL</a>(luo2019)</td>
     <td class="tg-9wq8">0.1692</td>
     <td class="tg-9wq8">59.01</td>
     <td class="tg-9wq8">0.7125</td>
@@ -54,7 +54,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-9wq8">0.8675</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1905.05621" target="_blank" rel="noopener noreferrer">StyleTrans-cond</a></td>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1905.05621" target="_blank" rel="noopener noreferrer">StyleTrans-cond</a>(dai2019)</td>
     <td class="tg-9wq8">0.2223</td>
     <td class="tg-9wq8">53.28</td>
     <td class="tg-9wq8">0.6205</td>
@@ -67,7 +67,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-9wq8">0.8815</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1808.07894" target="_blank" rel="noopener noreferrer">UnsuperMT</a></td>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1808.07894" target="_blank" rel="noopener noreferrer">UnsuperMT</a>(zhang2018)</td>
     <td class="tg-9wq8">0.2450</td>
     <td class="tg-9wq8">46.25</td>
     <td class="tg-9wq8">0.6060</td>
@@ -80,7 +80,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-9wq8">0.9372</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1805.05181" target="_blank" rel="noopener noreferrer">UnpairedRL</a></td>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1805.05181" target="_blank" rel="noopener noreferrer">UnpairedRL</a>(xu2018)</td>
     <td class="tg-9wq8">0.3122</td>
     <td class="tg-9wq8">46.09</td>
     <td class="tg-9wq8">0.4504</td>
@@ -93,7 +93,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-9wq8">0.4989</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR_Template</a></td>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR_Template</a>(li2018)</td>
     <td class="tg-9wq8">0.4156</td>
     <td class="tg-9wq8">57.10</td>
     <td class="tg-9wq8">0.4970</td>
@@ -106,7 +106,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-9wq8">0.7948</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR_DeleteOnly</a></td>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR_DeleteOnly</a>(li2018)</td>
     <td class="tg-9wq8">0.4538</td>
     <td class="tg-9wq8">34.53</td>
     <td class="tg-9wq8">0.4158</td>
@@ -119,7 +119,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-9wq8">0.8297</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR_DeleteRetrieve</a></td>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR_DeleteRetrieve</a>(li2018)</td>
     <td class="tg-9wq8">0.4605</td>
     <td class="tg-9wq8">36.72</td>
     <td class="tg-9wq8">0.4268</td>
@@ -132,7 +132,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-9wq8">0.8550</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="http://papers.nips.cc/paper/7259-style-transfer-from-non-parallel-text-by-cross-alignment.pdf" target="_blank" rel="noopener noreferrer">CAAE</a></td>
+    <td class="tg-9wq8"><a href="http://papers.nips.cc/paper/7259-style-transfer-from-non-parallel-text-by-cross-alignment.pdf" target="_blank" rel="noopener noreferrer">CAAE</a>(shen2017)</td>
     <td class="tg-9wq8">0.5130</td>
     <td class="tg-9wq8">20.74</td>
     <td class="tg-9wq8">0.3585</td>
@@ -145,7 +145,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-9wq8">0.7029</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1901.11333" target="_blank" rel="noopener noreferrer">IMaT</a></td>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1901.11333" target="_blank" rel="noopener noreferrer">IMaT</a>(jin2019)</td>
     <td class="tg-9wq8">0.5571</td>
     <td class="tg-9wq8">16.92</td>
     <td class="tg-9wq8">0.4750</td>
@@ -158,7 +158,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-9wq8">0.8198</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/17015/15745" target="_blank" rel="noopener noreferrer">Multi_Decoder</a></td>
+    <td class="tg-9wq8"><a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/17015/15745" target="_blank" rel="noopener noreferrer">Multi_Decoder</a>(fu2018)</td>
     <td class="tg-9wq8">0.5799</td>
     <td class="tg-9wq8">24.91</td>
     <td class="tg-9wq8">0.3117</td>
@@ -171,7 +171,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-9wq8">0.6340</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="https://www.aclweb.org/anthology/P19-1194.pdf" target="_blank" rel="noopener noreferrer">FineGrained-0.7</a></td>
+    <td class="tg-9wq8"><a href="https://www.aclweb.org/anthology/P19-1194.pdf" target="_blank" rel="noopener noreferrer">FineGrained-0.7</a>(luo2019)</td>
     <td class="tg-9wq8">0.6239</td>
     <td class="tg-9wq8">11.36</td>
     <td class="tg-9wq8">0.4023</td>
@@ -184,7 +184,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-9wq8">0.3621</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="https://www.aclweb.org/anthology/P19-1194.pdf" target="_blank" rel="noopener noreferrer">FineGrained-0.9</a></td>
+    <td class="tg-9wq8"><a href="https://www.aclweb.org/anthology/P19-1194.pdf" target="_blank" rel="noopener noreferrer">FineGrained-0.9</a>(luo2019)</td>
     <td class="tg-9wq8">0.6251</td>
     <td class="tg-9wq8">11.07</td>
     <td class="tg-9wq8">0.4030</td>
@@ -197,7 +197,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-9wq8">0.3926</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="https://www.aclweb.org/anthology/P19-1194.pdf" target="_blank" rel="noopener noreferrer">FineGrained-0.5</a></td>
+    <td class="tg-9wq8"><a href="https://www.aclweb.org/anthology/P19-1194.pdf" target="_blank" rel="noopener noreferrer">FineGrained-0.5</a>(luo2019)</td>
     <td class="tg-pb0m">0.6252</td>
     <td class="tg-pb0m">11.72</td>
     <td class="tg-pb0m">0.3994</td>
@@ -210,7 +210,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-pb0m">0.2985</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.09000" target="_blank" rel="noopener noreferrer">BackTranslation</a></td>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.09000" target="_blank" rel="noopener noreferrer">BackTranslation</a>(prabhumoye2018)</td>
     <td class="tg-9wq8">0.7566</td>
     <td class="tg-9wq8">2.81</td>
     <td class="tg-9wq8">0.2405</td>
@@ -223,7 +223,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-9wq8">0.9117</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/17015/15745" target="_blank" rel="noopener noreferrer">Style_Emb</a></td>
+    <td class="tg-9wq8"><a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/17015/15745" target="_blank" rel="noopener noreferrer">Style_Emb</a>(fu2018)</td>
     <td class="tg-9wq8">0.8796</td>
     <td class="tg-9wq8">3.24</td>
     <td class="tg-9wq8">0.0166</td>
@@ -236,7 +236,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-9wq8">0.4119</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR_RetrieveOnly</a></td>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR_RetrieveOnly</a>(li2018)</td>
     <td class="tg-9wq8">0.8990</td>
     <td class="tg-9wq8">2.62</td>
     <td class="tg-9wq8">0.1368</td>
@@ -249,7 +249,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-9wq8">0.9010</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="http://proceedings.mlr.press/v80/zhao18b/zhao18b.pdf" target="_blank" rel="noopener noreferrer">ARAE</a></td>
+    <td class="tg-9wq8"><a href="http://proceedings.mlr.press/v80/zhao18b/zhao18b.pdf" target="_blank" rel="noopener noreferrer">ARAE</a>(zhao2018)</td>
     <td class="tg-9wq8">0.9047</td>
     <td class="tg-9wq8">5.95</td>
     <td class="tg-9wq8">0.1680</td>
@@ -265,8 +265,8 @@ This benchmark is built for text style transfer. We are still collecting the rel
 </table>
 
 
-## Political Slant Dataset
 
+## Political Slant Dataset
 
 <table class="tg">
 <thead>
@@ -292,7 +292,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-wa1i">EMD</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="http://papers.nips.cc/paper/7259-style-transfer-from-non-parallel-text-by-cross-alignment.pdf" target="_blank" rel="noopener noreferrer">CAAE</a></td>
+    <td class="tg-9wq8"><a href="http://papers.nips.cc/paper/7259-style-transfer-from-non-parallel-text-by-cross-alignment.pdf" target="_blank" rel="noopener noreferrer">CAAE</a>(shen2017)</td>
     <td class="tg-nrix">0.4968</td>
     <td class="tg-nrix">15.68</td>
     <td class="tg-nrix">0.3217</td>
@@ -305,7 +305,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-nrix">0.8259</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR_DeleteOnly</a></td>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR_DeleteOnly</a>(li2018)</td>
     <td class="tg-nrix">0.5000</td>
     <td class="tg-nrix">30.76</td>
     <td class="tg-nrix">0.3295</td>
@@ -318,7 +318,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-nrix">0.9565</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR</a></td>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR</a>(li2018)</td>
     <td class="tg-nrix">0.5109</td>
     <td class="tg-nrix">35.48</td>
     <td class="tg-nrix">0.3352</td>
@@ -331,7 +331,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-nrix">0.9747</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR_RetrieveOnly</a></td>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR_RetrieveOnly</a>(li2018)</td>
     <td class="tg-nrix">0.7771</td>
     <td class="tg-nrix">10.14</td>
     <td class="tg-nrix">0.1590</td>
@@ -344,7 +344,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-nrix">0.9960</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="http://proceedings.mlr.press/v80/zhao18b/zhao18b.pdf" target="_blank" rel="noopener noreferrer">ARAE</a></td>
+    <td class="tg-9wq8"><a href="http://proceedings.mlr.press/v80/zhao18b/zhao18b.pdf" target="_blank" rel="noopener noreferrer">ARAE</a>(zhao2018)</td>
     <td class="tg-nrix">1.0347</td>
     <td class="tg-nrix">2.95</td>
     <td class="tg-nrix">0.0203</td>
@@ -360,8 +360,8 @@ This benchmark is built for text style transfer. We are still collecting the rel
 </table>
 
 
-##  Paper-news Title Dataset
 
+##  Paper-news Title Dataset
 
 <table class="tg">
 <thead>
@@ -387,7 +387,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-uzvj">EMD</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR_DeleteOnly</a></td>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR_DeleteOnly</a>(li2018)</td>
     <td class="tg-9wq8">0.8413</td>
     <td class="tg-9wq8">4.75</td>
     <td class="tg-9wq8">0.0939</td>
@@ -400,7 +400,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-9wq8">0.8687</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR</a></td>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR</a>(li2018)</td>
     <td class="tg-9wq8">0.8567</td>
     <td class="tg-9wq8">5.04</td>
     <td class="tg-9wq8">0.0249</td>
@@ -413,7 +413,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-9wq8">0.9234</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="http://papers.nips.cc/paper/7259-style-transfer-from-non-parallel-text-by-cross-alignment.pdf" target="_blank" rel="noopener noreferrer">CAAE</a></td>
+    <td class="tg-9wq8"><a href="http://papers.nips.cc/paper/7259-style-transfer-from-non-parallel-text-by-cross-alignment.pdf" target="_blank" rel="noopener noreferrer">CAAE</a>(shen2017)</td>
     <td class="tg-9wq8">0.9226</td>
     <td class="tg-9wq8">0.82</td>
     <td class="tg-9wq8">0.0067</td>
@@ -426,7 +426,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-9wq8">0.9612</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR_RetrieveOnly</a></td>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR_RetrieveOnly</a>(li2018)</td>
     <td class="tg-9wq8">0.9842</td>
     <td class="tg-9wq8">0.37</td>
     <td class="tg-9wq8">-0.0383</td>
@@ -439,7 +439,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
     <td class="tg-9wq8">0.9856</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="http://proceedings.mlr.press/v80/zhao18b/zhao18b.pdf" target="_blank" rel="noopener noreferrer">ARAE</a></td>
+    <td class="tg-9wq8"><a href="http://proceedings.mlr.press/v80/zhao18b/zhao18b.pdf" target="_blank" rel="noopener noreferrer">ARAE</a>(zhao2018)</td>
     <td class="tg-9wq8">1.0253</td>
     <td class="tg-9wq8">0.00</td>
     <td class="tg-9wq8">-0.0447</td>
@@ -456,21 +456,89 @@ This benchmark is built for text style transfer. We are still collecting the rel
 
 
 
-## Relevant Citation
 
-`@article{dai2019style,
+## Relevant Citation
+```
+@article{dai2019,
   title={Style transformer: Unpaired text style transfer without disentangled latent representation},
   author={Dai, Ning and Liang, Jianze and Qiu, Xipeng and Huang, Xuanjing},
   journal={arXiv preprint arXiv:1905.05621},
   year={2019}
-}`
+}
 
-`@article{luo2019dual,
+@article{luo2019,
   title={A dual reinforcement learning framework for unsupervised text style transfer},
   author={Luo, Fuli and Li, Peng and Zhou, Jie and Yang, Pengcheng and Chang, Baobao and Sui, Zhifang and Sun, Xu},
   journal={arXiv preprint arXiv:1905.10060},
   year={2019}
-}`
+}
+
+@article{zhang2018,
+	title="Style Transfer as Unsupervised Machine Translation",
+	author="Zhirui {Zhang} and Shuo {Ren} and Shujie {Liu} and Jianyong {Wang} and Peng {Chen} and Mu {Li} and Ming {Zhou} and Enhong {Chen}",
+	journal="arXiv preprint arXiv:1808.07894",
+	notes="Sourced from Microsoft Academic - https://academic.microsoft.com/paper/2888173624",
+	year="2018"
+}
+
+@article{xu2018,
+	title="Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach",
+	author="Jingjing {Xu} and Xu {Sun} and Qi {Zeng} and Xuancheng {Ren} and Xiaodong {Zhang} and Houfeng {Wang} and Wenjie {Li}",
+	journal="arXiv preprint arXiv:1805.05181",
+	notes="Sourced from Microsoft Academic - https://academic.microsoft.com/paper/2801454967",
+	year="2018"
+}
+
+@inproceedings{li2018,
+	title="Delete, retrieve, generate: A simple approach to sentiment and style transfer",
+	author="Juncen {Li} and Robin {Jia} and He {He} and Percy {Liang}",
+	booktitle="NAACL HLT 2018: 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+	volume="1",
+	pages="1865--1874",
+	year="2018"
+}
+
+@article{shen2017,
+	title="Style transfer from non-parallel text by cross-alignment",
+	author="Tianxiao {Shen} and Tao {Lei} and Regina {Barzilay} and Tommi S. {Jaakkola}",
+	journal="Neural Information Processing Systems",
+	pages="6830--6841",
+	year="2017"
+}
+
+@article{jin2019,
+  title={IMaT: Unsupervised Text Attribute Transfer via Iterative Matching and Translation},
+  author={Jin, Zhijing and Jin, Di and Mueller, Jonas and Matthews, Nicholas and Santus, Enrico},
+  journal={arXiv preprint arXiv:1901.11333},
+  year={2019}
+}
+
+@article{fu2018,
+	title="Style transfer in text: Exploration and evaluation",
+	author="Zhenxin {Fu} and Xiaoye {Tan} and Nanyun {Peng} and Dongyan {Zhao} and Rui {Yan}",
+	journal="National Conference on Artificial Intelligence",
+	pages="663--670",
+	year="2018"
+}
+
+
+@article{prabhumoye2018,
+	title="Style transfer through back-translation",
+	author="Shrimai {Prabhumoye} and Yulia {Tsvetkov} and Ruslan {Salakhutdinov} and Alan W {Black}",
+	journal="Meeting of the Association for Computational Linguistics",
+	volume="1",
+	pages="866--876",
+	year="2018"
+}
+
+@inproceedings{zhao2018,
+	title="Adversarially regularized autoencoders",
+	author="Junbo Jake {Zhao} and Yoon {Kim} and Kelly {Zhang} and Alexander M. {Rush} and Yann {LeCun}",
+	booktitle="ICML 2018: Thirty-fifth International Conference on Machine Learning",
+	pages="9405--9420",
+	year="2018"
+}
+```
 
 
 
