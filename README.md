@@ -1,6 +1,6 @@
 # Text Style Transfer Benchmark
 
-This benchmark is built for text style transfer. We are still collecting the relevant results and paper, if you want to add your own paper on this benchmark, feel free to contact us by sending mail to `ykshi [dot] 1991 [at] foxmail [dot] com`, we will update your data within 2 days. 
+This benchmark is built for text style transfer. We are still collecting the relevant results and paper, <u>if you want to add your own paper on this benchmark, feel free to contact us</u> by sending mail to `ykshi [dot] 1991 [at] foxmail [dot] com`, we will update your data within 2 days. 
 
 ## Yelp Dataset
 
@@ -457,3 +457,24 @@ This benchmark is built for text style transfer. We are still collecting the rel
 
 
 ## Relevant Citation
+
+`@article{dai2019style,
+  title={Style transformer: Unpaired text style transfer without disentangled latent representation},
+  author={Dai, Ning and Liang, Jianze and Qiu, Xipeng and Huang, Xuanjing},
+  journal={arXiv preprint arXiv:1905.05621},
+  year={2019}
+}`
+
+`@article{luo2019dual,
+  title={A dual reinforcement learning framework for unsupervised text style transfer},
+  author={Luo, Fuli and Li, Peng and Zhou, Jie and Yang, Pengcheng and Chang, Baobao and Sui, Zhifang and Sun, Xu},
+  journal={arXiv preprint arXiv:1905.10060},
+  year={2019}
+}`
+
+
+
+
+
+
+
