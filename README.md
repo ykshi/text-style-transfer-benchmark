@@ -264,3 +264,204 @@ This benchmark is built for text style transfer. We are still collecting the rel
 </tbody>
 </table>
 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-wa1i">Dataset:&nbsp;&nbsp;&nbsp;Political</th>
+    <th class="tg-wa1i" colspan="5">Content Preservation</th>
+    <th class="tg-wa1i" colspan="3">Naturalness</th>
+    <th class="tg-wa1i" colspan="2">Transfer Intensity</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-wa1i">Model</td>
+    <td class="tg-wa1i">WMD</td>
+    <td class="tg-wa1i">BLEU</td>
+    <td class="tg-wa1i">B-P</td>
+    <td class="tg-wa1i">B-R</td>
+    <td class="tg-wa1i">B-F1</td>
+    <td class="tg-wa1i">N-A</td>
+    <td class="tg-wa1i">N-C</td>
+    <td class="tg-wa1i">N-D</td>
+    <td class="tg-wa1i">ACCU</td>
+    <td class="tg-wa1i">EMD</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8"><a href="http://papers.nips.cc/paper/7259-style-transfer-from-non-parallel-text-by-cross-alignment.pdf" target="_blank" rel="noopener noreferrer">CAAE</a></td>
+    <td class="tg-nrix">0.4968</td>
+    <td class="tg-nrix">15.68</td>
+    <td class="tg-nrix">0.3217</td>
+    <td class="tg-nrix">0.3240</td>
+    <td class="tg-nrix">0.3230</td>
+    <td class="tg-nrix">0.2715</td>
+    <td class="tg-nrix">0.7052</td>
+    <td class="tg-nrix">0.7370</td>
+    <td class="tg-nrix">0.828</td>
+    <td class="tg-nrix">0.8259</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR_DeleteOnly</a></td>
+    <td class="tg-nrix">0.5000</td>
+    <td class="tg-nrix">30.76</td>
+    <td class="tg-nrix">0.3295</td>
+    <td class="tg-nrix">0.3932</td>
+    <td class="tg-nrix">0.3605</td>
+    <td class="tg-nrix">0.3155</td>
+    <td class="tg-nrix">0.8534</td>
+    <td class="tg-nrix">0.6490</td>
+    <td class="tg-nrix">0.958</td>
+    <td class="tg-nrix">0.9565</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR</a></td>
+    <td class="tg-nrix">0.5109</td>
+    <td class="tg-nrix">35.48</td>
+    <td class="tg-nrix">0.3352</td>
+    <td class="tg-nrix">0.3966</td>
+    <td class="tg-nrix">0.3649</td>
+    <td class="tg-nrix">0.3190</td>
+    <td class="tg-nrix">0.8472</td>
+    <td class="tg-nrix">0.7081</td>
+    <td class="tg-nrix">0.977</td>
+    <td class="tg-nrix">0.9747</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR_RetrieveOnly</a></td>
+    <td class="tg-nrix">0.7771</td>
+    <td class="tg-nrix">10.14</td>
+    <td class="tg-nrix">0.1590</td>
+    <td class="tg-nrix">0.1840</td>
+    <td class="tg-nrix">0.1709</td>
+    <td class="tg-nrix">0.3219</td>
+    <td class="tg-nrix">0.7854</td>
+    <td class="tg-nrix">0.7271</td>
+    <td class="tg-nrix">0.998</td>
+    <td class="tg-nrix">0.9960</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8"><a href="http://proceedings.mlr.press/v80/zhao18b/zhao18b.pdf" target="_blank" rel="noopener noreferrer">ARAE</a></td>
+    <td class="tg-nrix">1.0347</td>
+    <td class="tg-nrix">2.95</td>
+    <td class="tg-nrix">0.0203</td>
+    <td class="tg-nrix">0.0117</td>
+    <td class="tg-nrix">0.0158</td>
+    <td class="tg-nrix">0.3092</td>
+    <td class="tg-nrix">0.7763</td>
+    <td class="tg-nrix">0.7333</td>
+    <td class="tg-nrix">0.944</td>
+    <td class="tg-nrix">0.9412</td>
+  </tr>
+</tbody>
+</table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-uzvj{border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-uzvj">Dataset:&nbsp;&nbsp;&nbsp;Title</th>
+    <th class="tg-uzvj" colspan="5">Content Preservation</th>
+    <th class="tg-uzvj" colspan="3">Naturalness</th>
+    <th class="tg-uzvj" colspan="2">Transfer Intensity</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-uzvj">Model</td>
+    <td class="tg-uzvj">WMD</td>
+    <td class="tg-uzvj">BLEU</td>
+    <td class="tg-uzvj">B-P</td>
+    <td class="tg-uzvj">B-R</td>
+    <td class="tg-uzvj">B-F1</td>
+    <td class="tg-uzvj">N-A</td>
+    <td class="tg-uzvj">N-C</td>
+    <td class="tg-uzvj">N-D</td>
+    <td class="tg-uzvj">ACCU</td>
+    <td class="tg-uzvj">EMD</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR_DeleteOnly</a></td>
+    <td class="tg-9wq8">0.8413</td>
+    <td class="tg-9wq8">4.75</td>
+    <td class="tg-9wq8">0.0939</td>
+    <td class="tg-9wq8">0.0412</td>
+    <td class="tg-9wq8">0.0677</td>
+    <td class="tg-9wq8">0.3912</td>
+    <td class="tg-9wq8">0.8374</td>
+    <td class="tg-9wq8">0.4495</td>
+    <td class="tg-9wq8">0.881</td>
+    <td class="tg-9wq8">0.8687</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR</a></td>
+    <td class="tg-9wq8">0.8567</td>
+    <td class="tg-9wq8">5.04</td>
+    <td class="tg-9wq8">0.0249</td>
+    <td class="tg-9wq8">0.0212</td>
+    <td class="tg-9wq8">0.0234</td>
+    <td class="tg-9wq8">0.2462</td>
+    <td class="tg-9wq8">0.7387</td>
+    <td class="tg-9wq8">0.4625</td>
+    <td class="tg-9wq8">0.933</td>
+    <td class="tg-9wq8">0.9234</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8"><a href="http://papers.nips.cc/paper/7259-style-transfer-from-non-parallel-text-by-cross-alignment.pdf" target="_blank" rel="noopener noreferrer">CAAE</a></td>
+    <td class="tg-9wq8">0.9226</td>
+    <td class="tg-9wq8">0.82</td>
+    <td class="tg-9wq8">0.0067</td>
+    <td class="tg-9wq8">-0.0099</td>
+    <td class="tg-9wq8">-0.0008</td>
+    <td class="tg-9wq8">0.2167</td>
+    <td class="tg-9wq8">0.5627</td>
+    <td class="tg-9wq8">0.4422</td>
+    <td class="tg-9wq8">0.972</td>
+    <td class="tg-9wq8">0.9612</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR_RetrieveOnly</a></td>
+    <td class="tg-9wq8">0.9842</td>
+    <td class="tg-9wq8">0.37</td>
+    <td class="tg-9wq8">-0.0383</td>
+    <td class="tg-9wq8">-0.0362</td>
+    <td class="tg-9wq8">-0.0365</td>
+    <td class="tg-9wq8">0.1490</td>
+    <td class="tg-9wq8">0.5701</td>
+    <td class="tg-9wq8">0.4261</td>
+    <td class="tg-9wq8">0.995</td>
+    <td class="tg-9wq8">0.9856</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8"><a href="http://proceedings.mlr.press/v80/zhao18b/zhao18b.pdf" target="_blank" rel="noopener noreferrer">ARAE</a></td>
+    <td class="tg-9wq8">1.0253</td>
+    <td class="tg-9wq8">0.00</td>
+    <td class="tg-9wq8">-0.0447</td>
+    <td class="tg-9wq8">-0.0539</td>
+    <td class="tg-9wq8">-0.0486</td>
+    <td class="tg-9wq8">0.2318</td>
+    <td class="tg-9wq8">0.6061</td>
+    <td class="tg-9wq8">0.4765</td>
+    <td class="tg-9wq8">0.989</td>
+    <td class="tg-9wq8">0.9782</td>
+  </tr>
+</tbody>
+</table>
