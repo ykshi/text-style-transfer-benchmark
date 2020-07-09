@@ -2,7 +2,7 @@
 
 This benchmark is built for text style transfer. We are still collecting the relevant results and paper, if you want to add your own paper on this benchmark, feel free to contact us by sending mail to `ykshi [dot] 1991 [at] foxmail [dot] com`, we will update the corresponding data within 2 days. 
 
-
+## Yelp Dataset
 
 <table class="tg">
 <thead>
@@ -263,7 +263,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
   </tr>
 </tbody>
 </table>
-
+## Political Slant Dataset
 
 
 <table class="tg">
@@ -356,7 +356,7 @@ This benchmark is built for text style transfer. We are still collecting the rel
   </tr>
 </tbody>
 </table>
-
+##  Paper-news Title Dataset
 
 
 <table class="tg">
