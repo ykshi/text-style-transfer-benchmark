@@ -1,6 +1,6 @@
 # Text Style Transfer Benchmark
 
-This benchmark is built for neural text style transfer. We are still collecting the relevant results and paper, ***if you want to add your own paper on this benchmark, feel free to contact us*** by sending mail to `szha2609 [at] uni [dot] sydney [dot] edu [dot] au` or `ykshi [dot] 1991 [at] foxmail [dot] com`, we will update your data ASAP. 
+This benchmark is built for neural text style transfer. We are still collecting the relevant results and paper, ***if you want to add your own paper on this benchmark, feel free to contact us*** by sending mail to `szha2609 [at] uni.sydney.edu.au` or `ykshi.1991 [at] foxmail.com`, we will update your data ASAP. 
 
 ## Yelp Dataset
 
