@@ -54,7 +54,7 @@ This benchmark is built for neural text style transfer. We are still collecting 
     <td class="tg-9wq8">0.8675</td>
   </tr>
   <tr>
-    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1805.05181" target="_blank" rel="noopener noreferrer">Texar</a>(hu2018)</td>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1809.00794" target="_blank" rel="noopener noreferrer">Texar</a>(hu2018)</td>
     <td class="tg-9wq8">0.1921</td>
     <td class="tg-9wq8">57.82</td>
     <td class="tg-9wq8">--</td>
