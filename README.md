@@ -66,6 +66,31 @@ This benchmark is built for neural text style transfer. We are still collecting 
     <td class="tg-9wq8">0.8850</td>
     <td class="tg-9wq8">0.8429</td>
   </tr>
+    <tr>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1810.06526" target="_blank" rel="noopener noreferrer">Struct</a>(tian2018)</td>
+    <td class="tg-9wq8">0.1224</td>
+    <td class="tg-9wq8">61.98</td>
+    <td class="tg-9wq8">0.7174</td>
+    <td class="tg-9wq8">0.7220</td>
+    <td class="tg-9wq8">0.7200</td>
+    <td class="tg-9wq8">0.6205</td>
+    <td class="tg-9wq8">0.9261</td>
+    <td class="tg-9wq8">0.7002</td>
+    <td class="tg-9wq8">0.8960</td>
+    <td class="tg-9wq8">0.8574</td>
+  </tr>
+    <td class="tg-9wq8"><a href="http://papers.nips.cc/paper/7959-unsupervised-text-style-transfer-using-language-models-as-discriminators.pdf" target="_blank" rel="noopener noreferrer">Language-Discriminator</a>(yang2018)</td>
+    <td class="tg-9wq8">0.1014</td>
+    <td class="tg-9wq8">63.77</td>
+    <td class="tg-9wq8">0.7292</td>
+    <td class="tg-9wq8">0.7329</td>
+    <td class="tg-9wq8">0.7314</td>
+    <td class="tg-9wq8">0.5886</td>
+    <td class="tg-9wq8">0.9074</td>
+    <td class="tg-9wq8">0.6389</td>
+    <td class="tg-9wq8">0.8940</td>
+    <td class="tg-9wq8">0.8559</td>
+  </tr>
   <tr>
     <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1905.05621" target="_blank" rel="noopener noreferrer">StyleTrans-cond</a>(dai2019)</td>
     <td class="tg-9wq8">0.2223</td>
@@ -276,6 +301,7 @@ This benchmark is built for neural text style transfer. We are still collecting 
   </tr>
 </tbody>
 </table>
+
 
 
 
@@ -555,6 +581,19 @@ This benchmark is built for neural text style transfer. We are still collecting 
   title={Texar: A modularized, versatile, and extensible toolkit for text generation},
   author={Hu, Zhiting and Shi, Haoran and Tan, Bowen and Wang, Wentao and Yang, Zichao and Zhao, Tiancheng and He, Junxian and Qin, Lianhui and Wang, Di and Ma, Xuezhe and others},
   journal={arXiv preprint arXiv:1809.00794},
+  year={2018}
+}
+@inproceedings{yang2018,
+  title={Unsupervised text style transfer using language models as discriminators},
+  author={Yang, Zichao and Hu, Zhiting and Dyer, Chris and Xing, Eric P and Berg-Kirkpatrick, Taylor},
+  booktitle={Advances in Neural Information Processing Systems},
+  pages={7287--7298},
+  year={2018}
+}
+@article{tian2018,
+  title={Structured content preservation for unsupervised text style transfer},
+  author={Tian, Youzhi and Hu, Zhiting and Yu, Zhou},
+  journal={arXiv preprint arXiv:1810.06526},
   year={2018}
 }
 ```
