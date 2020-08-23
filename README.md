@@ -577,12 +577,14 @@ This benchmark is built for neural text style transfer. We are still collecting 
 	pages="9405--9420",
 	year="2018"
 }
+
 @article{hu2018,
   title={Texar: A modularized, versatile, and extensible toolkit for text generation},
   author={Hu, Zhiting and Shi, Haoran and Tan, Bowen and Wang, Wentao and Yang, Zichao and Zhao, Tiancheng and He, Junxian and Qin, Lianhui and Wang, Di and Ma, Xuezhe and others},
   journal={arXiv preprint arXiv:1809.00794},
   year={2018}
 }
+
 @inproceedings{yang2018,
   title={Unsupervised text style transfer using language models as discriminators},
   author={Yang, Zichao and Hu, Zhiting and Dyer, Chris and Xing, Eric P and Berg-Kirkpatrick, Taylor},
@@ -590,6 +592,7 @@ This benchmark is built for neural text style transfer. We are still collecting 
   pages={7287--7298},
   year={2018}
 }
+
 @article{tian2018,
   title={Structured content preservation for unsupervised text style transfer},
   author={Tian, Youzhi and Hu, Zhiting and Yu, Zhou},
