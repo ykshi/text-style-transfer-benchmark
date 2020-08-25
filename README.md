@@ -14,18 +14,6 @@ This benchmark is built for neural text style transfer. We are still collecting 
   </tr>
 </thead>
 <tbody>
-   <td class="tg-9wq8"><a href="http://papers.nips.cc/paper/7959-unsupervised-text-style-transfer-using-language-models-as-discriminators.pdf" target="_blank" rel="noopener noreferrer">Language-Discriminator</a>(yang2018)</td>
-    <td class="tg-9wq8">0.1014</td>
-    <td class="tg-9wq8">63.77</td>
-    <td class="tg-9wq8">0.7292</td>
-    <td class="tg-9wq8">0.7329</td>
-    <td class="tg-9wq8">0.7314</td>
-    <td class="tg-9wq8">0.5886</td>
-    <td class="tg-9wq8">0.9074</td>
-    <td class="tg-9wq8">0.6389</td>
-    <td class="tg-9wq8">0.8940</td>
-    <td class="tg-9wq8">0.8559</td>
-  </tr>
   <tr>
     <td class="tg-9wq8">Model</td>
     <td class="tg-9wq8">WMD</td>
@@ -38,6 +26,18 @@ This benchmark is built for neural text style transfer. We are still collecting 
     <td class="tg-9wq8">N-D</td>
     <td class="tg-9wq8">ACCU</td>
     <td class="tg-9wq8">EMD</td>
+  </tr>
+  <td class="tg-9wq8"><a href="http://papers.nips.cc/paper/7959-unsupervised-text-style-transfer-using-language-models-as-discriminators.pdf" target="_blank" rel="noopener noreferrer">Language-Discriminator</a>(yang2018)</td>
+    <td class="tg-9wq8">0.1014</td>
+    <td class="tg-9wq8">63.77</td>
+    <td class="tg-9wq8">0.7292</td>
+    <td class="tg-9wq8">0.7329</td>
+    <td class="tg-9wq8">0.7314</td>
+    <td class="tg-9wq8">0.5886</td>
+    <td class="tg-9wq8">0.9074</td>
+    <td class="tg-9wq8">0.6389</td>
+    <td class="tg-9wq8">0.8940</td>
+    <td class="tg-9wq8">0.8559</td>
   </tr>
   <tr>
     <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1905.05621" target="_blank" rel="noopener noreferrer">StyleTrans-multi</a>(dai2019)</td>
