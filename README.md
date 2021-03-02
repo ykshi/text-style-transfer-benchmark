@@ -27,6 +27,18 @@ This benchmark is built for neural text style transfer. We are still collecting 
     <td class="tg-9wq8">ACCU</td>
     <td class="tg-9wq8">EMD</td>
   </tr>
+   <td class="tg-9wq8"><a href="https://arxiv.org/pdf/2102.00769.pdf" target="_blank" rel="noopener noreferrer">GTAE</a>(shi2021gtae)</td>
+    <td class="tg-9wq8">0.1027</td>
+    <td class="tg-9wq8">64.83</td>
+    <td class="tg-9wq8">0.6991</td>
+    <td class="tg-9wq8">0.7303</td>
+    <td class="tg-9wq8">0.7149</td>
+    <td class="tg-9wq8">0.6178</td>
+    <td class="tg-9wq8">0.9272</td>
+    <td class="tg-9wq8">0.6644</td>
+    <td class="tg-9wq8">0.8870</td>
+    <td class="tg-9wq8">0.8505</td>
+  </tr>
   <td class="tg-9wq8"><a href="http://papers.nips.cc/paper/7959-unsupervised-text-style-transfer-using-language-models-as-discriminators.pdf" target="_blank" rel="noopener noreferrer">Language-Discriminator</a>(yang2018)</td>
     <td class="tg-9wq8">0.1014</td>
     <td class="tg-9wq8">63.77</td>
@@ -331,6 +343,19 @@ This benchmark is built for neural text style transfer. We are still collecting 
     <td class="tg-wa1i">EMD</td>
   </tr>
   <tr>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/2102.00769.pdf" target="_blank" rel="noopener noreferrer">GTAE</a>(shi2021gtae)</td>
+    <td class="tg-nrix">0.1506</td>
+    <td class="tg-nrix">65.61</td>
+    <td class="tg-nrix">0.6577</td>
+    <td class="tg-nrix">0.6706</td>
+    <td class="tg-nrix">0.6640</td>
+    <td class="tg-nrix">0.3310</td>
+    <td class="tg-nrix">0.7852</td>
+    <td class="tg-nrix">0.7318</td>
+    <td class="tg-nrix">0.900/td>
+    <td class="tg-nrix">0.8990</td>
+  </tr>
+  <tr>
     <td class="tg-9wq8"><a href="http://papers.nips.cc/paper/7259-style-transfer-from-non-parallel-text-by-cross-alignment.pdf" target="_blank" rel="noopener noreferrer">CAAE</a>(shen2017)</td>
     <td class="tg-nrix">0.4968</td>
     <td class="tg-nrix">15.68</td>
@@ -426,6 +451,19 @@ This benchmark is built for neural text style transfer. We are still collecting 
     <td class="tg-uzvj">EMD</td>
   </tr>
   <tr>
+    <td class="tg-9wq8"><a href="https://arxiv.org/pdf/2102.00769.pdf" target="_blank" rel="noopener noreferrer">GTAE</a>(shi2021gtae)</td>
+    <td class="tg-9wq8">0.5161</td>
+    <td class="tg-9wq8">19.67</td>
+    <td class="tg-9wq8">0.1923</td>
+    <td class="tg-9wq8">0.2134</td>
+    <td class="tg-9wq8">0.2034</td>
+    <td class="tg-9wq8">0.0949</td>
+    <td class="tg-9wq8">0.4181</td>
+    <td class="tg-9wq8">0.4567</td>
+    <td class="tg-9wq8">0.956</td>
+    <td class="tg-9wq8">0.9492</td>
+  </tr>
+  <tr>
     <td class="tg-9wq8"><a href="https://arxiv.org/pdf/1804.06437" target="_blank" rel="noopener noreferrer">DAR_DeleteOnly</a>(li2018)</td>
     <td class="tg-9wq8">0.8413</td>
     <td class="tg-9wq8">4.75</td>
@@ -498,6 +536,12 @@ This benchmark is built for neural text style transfer. We are still collecting 
 
 ## Relevant Citation
 ```
+@article{shi2021gtae,
+  title={GTAE: Graph-Transformer based Auto-Encoders for Linguistic-Constrained Text Style Transfer},
+  author={Shi, Yukai and Zhang, Sen and Zhou, Chenxing and Liang, Xiaodan and Yang, Xiaojun and Lin, Liang},
+  journal={ACM Transactions on Intelligent Systems and Technology},
+  year={2021}
+}
 @article{dai2019,
   title={Style transformer: Unpaired text style transfer without disentangled latent representation},
   author={Dai, Ning and Liang, Jianze and Qiu, Xipeng and Huang, Xuanjing},
