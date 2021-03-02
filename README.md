@@ -352,7 +352,7 @@ This benchmark is built for neural text style transfer. We are still collecting 
     <td class="tg-nrix">0.3310</td>
     <td class="tg-nrix">0.7852</td>
     <td class="tg-nrix">0.7318</td>
-    <td class="tg-nrix">0.900/td>
+    <td class="tg-nrix">0.900</td>
     <td class="tg-nrix">0.8990</td>
   </tr>
   <tr>
